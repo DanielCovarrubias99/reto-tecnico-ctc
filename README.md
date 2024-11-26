@@ -9,7 +9,7 @@ Este es un prototipo de interfaz para un reto técnico en el que se usan datos e
 - [React Router]
 
 ## Instalación
-1. Clona este repositorio en tu máquina local:
+1.Clona este repositorio en tu máquina local:
    git clone [https://github.com/usuario/reto-tecnico-ctc.git]
    
 2.Entra en la carpeta del proyecto:
