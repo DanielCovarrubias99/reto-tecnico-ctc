@@ -1,0 +1,24 @@
+.list {
+    margin-top: 14vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px 10px;
+}
+
+.fondo {
+    margin-top: 14vh;
+    font-family: sans-serif;
+    min-height: 100vh;
+    height: max-content;
+}
+
+.list::after {
+    content: "";
+    width: 366px;
+}

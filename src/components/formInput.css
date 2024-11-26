@@ -1,0 +1,25 @@
+.labelForm {
+    width: 90%;
+    margin: auto;
+    display: block;
+    font-size: 18px;
+    margin-top: 2vh;
+}
+
+.inputForm {
+    width: 90%;
+    height: 30px;
+    margin: auto;
+    display: block;
+    font-size: 16px;
+    border-radius: 5px;
+    border: solid 1px lightgray;
+    padding: 2px 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inputForm:focus {
+    border: 2px solid #61123296;
+    box-shadow: 0 0 5px #61123296;
+    outline: none;
+  }

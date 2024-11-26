@@ -1,0 +1,53 @@
+.background {
+    width: 80%;
+    margin: auto;
+    margin-top: 14vh;
+}
+
+.formBackground {
+    width: 100%;
+    background-color: white;
+    box-shadow: 2px 2px 10px 0px rgba(0, 0, 0, 0.75);
+    padding: 15px 0px;
+    border-radius: 5px;
+}
+
+.labelForm {
+    width: 90%;
+    margin: auto;
+    display: block;
+    font-size: 18px;
+}
+
+.inputForm {
+    width: 90%;
+    height: 30px;
+    margin: auto;
+    display: block;
+    font-size: 16px;
+}
+
+.newTask{
+    text-align: center;
+}
+
+.buttonContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.newButton{
+    margin-top: 2vh;
+    height: 30px;
+    width: 40%;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: #611232;
+}
+
+.newButton:hover{
+    background-color: #a81e55;  
+}
