@@ -18,7 +18,7 @@ Este es un prototipo de interfaz para un reto técnico en el que se usan datos e
 3.Instala las dependencias:
 npm install
 
-Uso
+##Uso
 Para correr la aplicación localmente:
 npm start
 Esto ejecutará el servidor de desarrollo y abrirá la aplicación en tu navegador por defecto, generalmente en http://localhost:3000
