@@ -10,13 +10,13 @@ Este es un prototipo de interfaz para un reto técnico en el que se usan datos e
 
 ## Instalación
 1.Clona este repositorio en tu máquina local:
-   git clone [https://github.com/usuario/reto-tecnico-ctc.git]
+   git clone [https://github.com/DanielCovarrubias99/reto-tecnico-ctc.git]
    
 2.Entra en la carpeta del proyecto:
   cd reto-tecnico-ctc
 
 3.Instala las dependencias:
-npm install
+  npm install
 
 Para correr la aplicación localmente:
 npm start
